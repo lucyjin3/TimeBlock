@@ -12,6 +12,7 @@ Type “npm install” to install the required dependencies for the project.
 
 Finally, type “npm start” to see this project running in your local host.
 
-# Team
+# The Team
 TimeBlock is currently maintained by Evan Brooks, Aidan Piñeiro, Hyoyoung Jin, and Peter Salmon.
+
 
